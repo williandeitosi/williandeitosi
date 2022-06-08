@@ -2,7 +2,7 @@ Oi, eu sou o Willian Giovanini Dei Tosi, futuro desenvolvedor Full Stack
 
 ##
 
-<div align="center">
+<div style="display: inline_block">
   <a href="https://github.com/williandeitosi">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=williandeitosi&show_icons=true&title_color=blue&theme=dark&icon_color=blue&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williandeitosi&layout=compact&langs_count=7&title_color=blue&theme=dark"/>
