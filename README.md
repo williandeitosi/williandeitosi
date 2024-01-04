@@ -25,7 +25,9 @@
 [![Firebase](https://img.shields.io/badge/Firebase-v9.6.10-yellow)](https://firebase.google.com/)
 
 ## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AmoonSeth#8868) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/williandeitosi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williangiovaninideitosi/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/williandeitosi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williangiovaninideitosi/)
+
+
 
 # 📊 GitHub Stats
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=williandeitosi&theme=nightowl&bg_color=000000&title_color=9A5CB6&text_color=57A0D3&icon_color=9A5CB6&hide_border=true&include_all_commits=true&count_private=false)
