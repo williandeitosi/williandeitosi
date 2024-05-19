@@ -1,9 +1,8 @@
 # 👋 Olá, Eu sou o Willian Giovanini Dei Tosi!
-
-## Sobre Mim
+### Sobre Mim
 👨‍💻 Futuro desenvolvedor Full Stack apaixonado por tecnologia e aprendizado contínuo.
-
-## 🚀 Tecnologias Utilizadas
+##
+### 🚀 Tecnologias Utilizadas
 
 ### Linguagens de Programação:
 [![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/downloads/)
@@ -24,12 +23,13 @@
 [![NodeJS](https://img.shields.io/badge/Node.js-v16.13.0-green)](https://nodejs.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-v9.6.10-yellow)](https://firebase.google.com/)
 
-## 🌐 Socials
+##
+### 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/williandeitosi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williangiovaninideitosi/)
 
 
-
-# 📊 GitHub Stats
+##
+### 📊 GitHub Stats
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=williandeitosi&theme=nightowl&bg_color=000000&title_color=9A5CB6&text_color=57A0D3&icon_color=9A5CB6&hide_border=true&include_all_commits=true&count_private=false)
 <br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=williandeitosi&theme=nightowl&background=000000&ring=9A5CB6&fire=9A5CB6&hide_border=true)
