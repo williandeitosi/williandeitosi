@@ -1,56 +1,93 @@
-# 👋 Olá, Eu sou o Willian Giovanini Dei Tosi!
-### Sobre Mim
-👨‍💻 Futuro desenvolvedor Full Stack apaixonado por tecnologia e aprendizado contínuo.
-##
-### 🚀 Tecnologias Utilizadas
-
-### Linguagens de Programação:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend:
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+<!-- Banner -->
+<h1 align="center">✨ Bem-vindo ao meu GitHub!</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=9A5CB6&center=true&vCenter=true&width=600&lines=Olá%2C+sou+Willian+Giovanini+Dei+Tosi!;Desenvolvedor+Full+Stack+em+formação!;Sempre+aprendendo+e+codando+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
 
+---
 
+## 🧑‍💻 Sobre mim
 
-### Backend e Banco de Dados:
+- 🎓 Estudante focado em desenvolvimento **Full Stack**
+- 🌱 Atualmente estudando **Golang** e **Soluções em Nuvem**
+- 💡 Apaixonado por aprender novas tecnologias e construir projetos reais
+- 📍 Baseado em São Paulo, Brasil 🇧🇷
 
+---
 
+<table>
+  <tr>
+    <!-- Coluna 1: Tecnologias -->
+    <td valign="top" width="50%">
+      <h2>🚀 Tecnologias que domino</h2>
+      <table>
+        <tr>
+          <td align="center" colspan="3"><strong>🧠 Lógica e Linguagens</strong></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>JavaScript</td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br/>TypeScript</td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>Python</td>
+        </tr>
+        <tr>
+          <td align="center" colspan="3"><strong>🎨 Frontend</strong></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>React</td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br/>Next.js</td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/><br/>Vue.js</td>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/>HTML5</td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br/>CSS3</td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/><br/>Bootstrap</td>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br/>Tailwind</td>
+          <td align="center"><img src="https://mui.com/static/logo.png" width="35"/><br/>MUI</td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40"/><br/>Jest</td>
+        </tr>
+        <tr>
+          <td align="center" colspan="3"><strong>🔧 Backend & Banco de Dados</strong></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br/>Node.js</td>
+          <td align="center"><img src="https://nestjs.com/img/logo-small.svg" width="40"/><br/>NestJS</td>
+          <td align="center"><img src="https://www.fastify.io/img/fastify_logo_with_name_2x.png" width="70"/><br/>Fastify</td>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/><br/>Flask</td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br/>MongoDB</td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/><br/>SQLite</td>
+        </tr>
+      </table>
+    </td>
+    <!-- Coluna 2: GitHub Insights -->
+    <td valign="top" width="50%">
+      <h2>📈 GitHub Insights</h2>
+      <img src="https://github-readme-stats.vercel.app/api?username=williandeitosi&theme=radical&show_icons=true&hide_border=true&border_radius=10" width="100%"/><br/><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=williandeitosi&theme=radical&hide_border=true&border_radius=10" width="100%"/><br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williandeitosi&layout=compact&theme=radical&hide_border=true&border_radius=10" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+---
 
+## 🌐 Conecte-se comigo
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/williangiovaninideitosi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/williandeitosi/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
+---
 
-##
-### 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/williandeitosi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williangiovaninideitosi/)
-
-
-##
-### 📊 GitHub Stats
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=williandeitosi&theme=nightowl&bg_color=000000&title_color=9A5CB6&text_color=57A0D3&icon_color=9A5CB6&hide_border=true&include_all_commits=true&count_private=false)
-<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=williandeitosi&theme=nightowl&background=000000&ring=9A5CB6&fire=9A5CB6&hide_border=true)
-<br/>
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=williandeitosi&theme=nightowl&bg_color=000000&title_color=9A5CB6&text_color=57A0D3&hide_border=true&layout=compact&exclude_repo=html,css)
-
-
-[![](https://visitcount.itsvg.in/api?id=williandeitosi&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=williandeitosi&style=flat-square&color=9A5CB6" alt="visit count"/>
+</p>
