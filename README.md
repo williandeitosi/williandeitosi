@@ -1,8 +1,10 @@
 <!-- Banner -->
 <h1 align="center">✨ Bem-vindo ao meu GitHub!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=9A5CB6&center=true&vCenter=true&width=600&lines=Olá%2C+sou+Willian+Giovanini+Dei+Tosi!;Desenvolvedor+Full+Stack+em+formação!;Sempre+aprendendo+e+codando+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack+com+foco+em+Back-end;Experiência+em+JavaScript%2C+TypeScript+e+Python;Atualmente+aprendendo+Go+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
+
+
 
 
 ---
