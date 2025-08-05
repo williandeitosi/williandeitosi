@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Estudante focado em desenvolvimento **Full Stack**
+- ⚒️ Trabalho como Desenvolvedor **Full-Stack**
 - 🌱 Atualmente estudando **Golang** e **Soluções em Nuvem**
 - 💡 Apaixonado por aprender novas tecnologias e construir projetos reais
 - 📍 Baseado em São Paulo, Brasil 🇧🇷
